@@ -3,7 +3,7 @@
 
  
  ## :wave: Hi! Welcome to the Python repository.  
- **python** is a versatile,high level programming language known for its readablity and easy to use.
+ **Python** is a versatile,high level programming language known for its readablity and easy to use.
  It is widly used in web development(with **Django** and **Flask** frameworks),**data science**,**machine learning** ,**AI** and **automation**.
  There are lots of inbuilt libraries in **Python** that extend functionality.Some popular libraries include **Numpy**,**Pandas**,**Matplotlib**,**TensorFlow**and **PyTorch**.
  This repository introduce you to basics to advanced python concepts with examples and exercise.
