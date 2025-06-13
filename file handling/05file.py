@@ -1,0 +1,15 @@
+data="kalki Movie is Excellent!!!"
+f=open("06.txt","w")
+f.write(data)
+with open("06.txt","r+") as f:
+    text=f.read()
+    print(text)
+    print("The current cursor position:",f.tell())
+    f.seek(27)
+    print("The current cursor position:",f.tell())
+    f.write("Prabhas movie")
+    f.seek(0)
+    text=f.read()
+    print("Data after modification:")
+    print(text)
+print("-------------------------------------------")

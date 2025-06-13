@@ -1,0 +1,5 @@
+Welcome
+to
+the
+python world
+This is file handling in python 
