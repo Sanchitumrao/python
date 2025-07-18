@@ -8,6 +8,39 @@
  There are lots of inbuilt libraries in **Python** that extend functionality.Some popular libraries include **Numpy**,**Pandas**,**Matplotlib**,**TensorFlow**and **PyTorch**.
  This repository introduce you to basics to advanced python concepts with examples and exercise.
 
+ ## 🛠️ Installations
+ 1. <a href="https://www.python.org/downloads/">Click here for python installation</a>
+ 2. If installation of python and pip is complete then check the python and pip versions
+    
+      **Run commands** 
+    
+            python --version
+    ```
+        pip --version
+ 3. We can use python in terminal by typing
+    
+          python
+   This opens REPL(Read Evaluate Print Loop)
+
+ 4. Other Installations
+    
+    🔹For creating virtual environment
+
+            python -m venv venv_name
+
+    🔹For activating virtual environment
+  
+            venv_name\Scripts\activate
+    🔹Numpy, Pandas, Matplotlib
+
+            pip install pandas numpy matplotlib
+
+    🔹MySQl connector for python
+ 
+            pip install mysql-connector-python
+   
+
+    
  ## Table of Contents
  📌 01.Introduction to Python  ✅  
  📌 02.Python Basics(Datatypes,strings,operators,control flow)  ✅  
